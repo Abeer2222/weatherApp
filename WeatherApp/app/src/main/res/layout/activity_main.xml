@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="25dp"
-    android:background="@drawable/wp"
+    android:background="@drawable/wpp"
     tools:context=".MainActivity">
 
     <RelativeLayout
@@ -447,7 +447,7 @@
         android:id="@+id/rlZip"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/wp"
+        android:background="@drawable/wpp"
         >
 
         <LinearLayout
